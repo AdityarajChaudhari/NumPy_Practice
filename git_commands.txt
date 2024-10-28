@@ -1,8 +1,0 @@
-0 - git init - Adding git to the folder
-1 - git remote add origin "github url" - This is used to access the git repo from the local directory
-2 - git checkout -b "new_branch_name" - This is used to create a new "branch_name" and change the branch to this new one
-3 - git add - This is used to add the files to be staged. If  "." then all files will be staged else we can also mention file names.
-4 - git reset - This is used to unstage the files.
-5 - git status - This is used to check which files are staged to be pushed.
-6 - git commit -m "msg" - This is used to print the message in git for the specific commit
-7 - git push -u origin "branch_name" - This is used to push the stage files into github in specific branch
